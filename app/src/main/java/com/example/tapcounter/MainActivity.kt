@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         val textView = findViewById<TextView>(R.id.textView3)
-        var counter = 90
+        var counter = 0
 
         val upgradeButton = findViewById<Button>(R.id.upgradeBtn)
 
